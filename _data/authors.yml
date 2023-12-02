@@ -6,12 +6,7 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-cotes:
-  name: Cotes Chung
-  twitter: cotes2020
-  url: https://github.com/cotes2020/
+vectorch9:
+  name: vectorch9
+  url: https://github.com/vectorch9/
 
-sille_bille:
-  name: Dinesh Prasanth Moluguwan Krishnamoorthy
-  twitter: dinesh_MKD
-  url: https://github.com/SilleBille/
